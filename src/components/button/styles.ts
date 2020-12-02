@@ -1,11 +1,8 @@
-import styled, { keyframes } from 'styled-components';
+import styled from 'styled-components';
 
-export const Container = styled.div`
-
-  button {
+export const Container = styled.button`
     background: #28df99;
     margin-top: 16px;
-    padding: 5px;
     border-radius: 5px;
     border: 0;
     width: 140px;
@@ -13,9 +10,8 @@ export const Container = styled.div`
     color: #000;
     transition: 0.8s;
     text-align: center;
-    &:hover {
-    transform: scale(1.1); 
-  }
-  }
+    min-height: 30px;
+
+  
       
 `;

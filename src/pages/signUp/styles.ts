@@ -33,7 +33,7 @@ export const Content = styled.div`
   transition: 0.9s;
 
   &:hover {
-    background: rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.65);
   }
 
   form {
@@ -51,7 +51,7 @@ export const Content = styled.div`
       color: #fff;
       font-size: 18px;
       svg {
-        margin-left: 10px;
+        margin-right: 10px;
       }
     }
 

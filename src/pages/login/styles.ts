@@ -3,6 +3,7 @@ import food from '../../assets/food2.jpg';
 
 export const Container = styled.div`
   display: flex;
+  flex: 1;
   align-items: center;
   justify-content: center;
   height: 100vh;
@@ -32,7 +33,7 @@ export const Content = styled.div`
   background: rgba(0,0,0,0.2);
   transition: 0.9s;
     &:hover{
-      background: rgba(0,0,0,0.5)
+      background: rgba(0,0,0,0.6)
     }
     
 
@@ -49,9 +50,9 @@ export const Content = styled.div`
       text-decoration: none;
       color: #fff;
       font-size: 18px;
-      svg {
-        margin-left: 10px;
-      }
+      align-items: center;
+      justify-content: center;
+
     }
   }
 `;

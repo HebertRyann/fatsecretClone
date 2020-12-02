@@ -1,33 +1,37 @@
-import React from 'react';
+import React, { FormEvent, useCallback } from 'react';
 
 import { Container, Content } from './styles';
 import Input from '../../components/input';
 import Button from '../../components/button';
-import { FiLock, FiMail, FiUser, FiArrowRight } from 'react-icons/fi'
+import { FiLock, FiMail, FiUser, FiChevronLeft } from 'react-icons/fi'
+import { Link, useHistory } from 'react-router-dom';
 
-const signUp: React.FC = () => {
-
+const SignUp: React.FC = () => {
+  const history = useHistory();
+  const handleSubmit = useCallback((event: FormEvent) => {
+    event.preventDefault();
+    history.push('/')
+  }, []);
   return (
     <Container>
       <Content>
-        <form >
+        <form onSubmit={handleSubmit}>
           <Input name="name" placeholder="Nome" icon={FiUser} />
           <Input name="email" placeholder="Email" icon={FiMail} />
-          <Input name="password" placeholder="Senha" icon={FiLock} />
+          <Input name="password" type="password" placeholder="Senha" icon={FiLock} />
           <Button
             type="submit"
-            onSubmit={() => { }}
           >
             Cadastrar
           </Button>
-          <a href="#" >
-            Ir ao Login
-            <FiArrowRight size={20} />
-          </a>
+          <Link to="/" >
+            <FiChevronLeft size={20} />
+            Voltar ao Login
+          </Link>
         </form>
       </Content>
     </Container>
   );
 }
 
-export default signUp;
+export default SignUp;

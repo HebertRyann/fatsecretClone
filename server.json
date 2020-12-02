@@ -1,0 +1,196 @@
+{
+  "foods": [
+    {
+      "name": "arroz",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "batata",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "macarrao",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "carne",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "bacon",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "tapioca",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "coscuz",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "calabresa",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "ovo",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "ovo cozido",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "peixe",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "porco",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "lasanha",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "queijo",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "presunto",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "pao frances",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "maçã",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "banana",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "laranha",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "melao",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "melancia",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "acerola",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "tamarindo",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    },
+    {
+      "name": "requeijao",
+      "quantity": 20,
+      "calories": 123,
+      "sodium": 123,
+      "carbohydrate": 123,
+      "fat": 123
+    }
+  ]
+}
