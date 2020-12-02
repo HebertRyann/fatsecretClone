@@ -4,10 +4,8 @@ import React, {
   useEffect,
   useMemo,
 } from 'react';
-import { Form } from '@unform/web';
 import { Chart } from 'react-google-charts';
-import { FiChevronRight, FiPlus, FiPlusSquare, FiPower, FiSave, FiXSquare } from 'react-icons/fi';
-import { Console, count, info } from 'console';
+import { FiPlusSquare, FiSave, FiXSquare } from 'react-icons/fi';
 import {
   ContainerFood,
   ContentFood,
@@ -28,9 +26,6 @@ import {
   MealSaved,
   ContentMealSaved,
 } from './styles';
-import TableFoodInfo from '../../components/TableFoodInfo';
-import Input from '../../components/input';
-import Button from '../../components/button';
 import api from '../../service/api';
 
 interface FoodsProps {
