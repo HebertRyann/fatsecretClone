@@ -14,7 +14,7 @@
 
 <h2>
   <p>Login</p>
-  <img alt="Login FatsecretClone" src="src/assets/fatsecretlogin.jpeg"/>
+  <img alt="Login FatsecretClone" src="src/assets/fatsecretclonelogin.jpeg"/>
 </h2>
 
 <!-- <h2>
