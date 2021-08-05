@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Plataforma para auxiliar os usuarios a monitorar e controlar suas calorias, gerenciando suas calorias podem estabelecer metas e fazer uma dieta melhor e mais saudável
+  Plataforma para auxiliar os usuários a monitorar e controlar suas calorias, gerenciando suas calorias podem estabelecer metas e fazer uma dieta melhor e mais saudável
 </p>
 
 <h4 align="center"> 
