@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Plataforma para auxiliar ongs a compartilhar seus casos, junto a versão mobile onde os usuario podem ver todos os casos de varias ongs e ajuda-lás
+  Plataforma para auxiliar os usuarios a monitorar e controlar suas calorias, gerenciando suas calorias podem estabelecer metas e fazer uma dieta melhor e mais saudável
 </p>
 
 <h4 align="center"> 
